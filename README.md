@@ -1,4 +1,3 @@
-````markdown
 # C++ & DSA – Week-wise Learning Roadmap
 
 Welcome! 👋  
@@ -75,7 +74,3 @@ If you’d like to add problems, fixes, or improvements:
 If this repo helps you learn or revise C++/DSA, consider giving it a **star**!
 
 Happy coding! 🚀
-
-``` 
-Would you like any of these?
-```
